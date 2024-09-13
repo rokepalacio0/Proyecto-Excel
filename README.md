@@ -7,15 +7,15 @@ Este proyecto se centra en un dataset de una petrolera, donde realicé un exhaus
 ## 📂 Contenido del Proyecto
 
 1. **📊 Dataset Original**: 
-   - ![Captura del dataset sin trabajar](URL_DE_TU_IMAGEN_DEL_DATASET_SIN_TRABAJAR)
+   - ![Captura del dataset sin trabajar](https://github.com/rokepalacio0/Proyecto-Excel/blob/main/IMAGES/data_original.png)
    - *Descripción*: Este archivo muestra el dataset en su formato original, antes de cualquier proceso de limpieza o transformación.
 
 2. **🔧 Optimización del Dataset**:
-   - ![Captura del dataset optimizado](URL_DE_TU_IMAGEN_DEL_DATASET_OPTIMIZADO)
+   - ![Captura del dataset optimizado](https://github.com/rokepalacio0/Proyecto-Excel/blob/main/IMAGES/data_optimizado.png)
    - *Descripción*: Aquí se puede ver cómo el dataset ha sido optimizado y limpiado, listando las transformaciones realizadas y los datos que se han añadido o modificado.
 
 3. **📈 Dashboard en Excel**:
-   - ![Captura del dashboard interactivo](URL_DE_TU_IMAGEN_DEL_DASHBOARD)
+   - ![Captura del dashboard interactivo](https://github.com/rokepalacio0/Proyecto-Excel/blob/main/IMAGES/dashboardExcel.png)
    - *Descripción*: Este es el dashboard interactivo creado en Excel, que muestra las visualizaciones y análisis realizados sobre el dataset.
 
 ## 🎯 Objetivos del Proyecto
